@@ -1,0 +1,374 @@
+﻿Sample,Code,Plant_Species,Plant_Species_cover,Mycorrhiza_Status,Heather_Category,Heather_Density,Structural_class
+1,1-50-1,CORPTE,3,NM,Medium,30,Native shrub
+1,1-50-1,DRAREC,6,ErM,Medium,30,Native shrub
+1,1-50-1,DRASUB,4,ErM,Medium,30,Native shrub
+1,1-50-1,LEPSCO,10,EcM/AM,Medium,30,Native shrub
+2,1-50-2,CELSPE,3,AM,Low,10,Native forb
+2,1-50-2,DRAREC,12,ErM,Low,10,Native shrub
+2,1-50-2,DRASUB,4,ErM,Low,10,Native shrub
+2,1-50-2,LEPSCO,20,EcM/AM,Low,10,Native shrub
+3,1-50-3,CELSPE,2,AM,Medium,40,Native forb
+3,1-50-3,DRAREC,15,ErM,Medium,40,Native shrub
+3,1-50-3,LEPSCO,1,EcM/AM,Medium,40,Native shrub
+4,1-50-4,CELSPE,0.5,AM,Medium,60,Native forb
+4,1-50-4,DRAREC,3,ErM,Medium,60,Native shrub
+4,1-50-4,DRASUB,2,ErM,Medium,60,Native shrub
+5,1-50-5,CELSPE,0.5,AM,Medium,30,Native forb
+5,1-50-5,DRAREC,1,ErM,Medium,30,Native shrub
+5,1-50-5,OZOLEP,1,AM,Medium,30,Native shrub
+6,2-0-1,CELSPE,0.5,AM,Low,0,Native forb
+6,2-0-1,COPCHE,5,AM,Low,0,Native shrub
+6,2-0-1,DRASUB,20,ErM,Low,0,Native shrub
+6,2-0-1,OZOLEP,1,AM,Low,0,Native shrub
+6,2-0-1,PENPUM,30,ErM,Low,0,Native shrub
+6,2-0-1,VERTET,0.5,AM,Low,0,Native shrub
+6,2-0-1,VERVEN,6,AM,Low,0,Native shrub
+7,2-0-2,DRASUB,20,ErM,Low,0,Native shrub
+7,2-0-2,OZOLEP,15,AM,Low,0,Native shrub
+7,2-0-2,VERTET,3,AM,Low,0,Native shrub
+7,2-0-2,VERVEN,3,AM,Low,0,Native shrub
+8,2-0-3,CELGRA,0.5,AM,Low,0,Native forb
+8,2-0-3,CELSPE,3,AM,Low,0,Native forb
+8,2-0-3,DRASUB,50,ErM,Low,0,Native shrub
+8,2-0-3,VERTET,1,AM,Low,0,Native shrub
+8,2-0-3,VERVEN,7,AM,Low,0,Native shrub
+9,2-0-4,COPCHE,7,AM,Low,0,Native shrub
+9,2-0-4,DRASUB,40,ErM,Low,0,Native shrub
+9,2-0-4,OZOLEP,1,AM,Low,0,Native shrub
+9,2-0-4,PENPUM,15,ErM,Low,0,Native shrub
+9,2-0-4,VERVEN,4,AM,Low,0,Native shrub
+10,2-0-5,CELGRA,0.5,AM,Low,0,Native forb
+10,2-0-5,COPCHE,20,AM,Low,0,Native shrub
+10,2-0-5,DRASUB,70,ErM,Low,0,Native shrub
+10,2-0-5,PENPUM,15,ErM,Low,0,Native shrub
+10,2-0-5,POACOL,1,AM,Low,0,Native grass
+10,2-0-5,VERVEN,3,AM,Low,0,Native shrub
+11,3-100-1,COPPER,5,AM,Medium,60,Native shrub
+11,3-100-1,OZOLEP,2,AM,Medium,60,Native shrub
+11,3-100-1,PENPUM,10,ErM,Medium,60,Native shrub
+12,3-100-2,COPPER,10,AM,Medium,50,Native shrub
+12,3-100-2,DRAREC,2,ErM,Medium,50,Native shrub
+12,3-100-2,DRASUB,5,ErM,Medium,50,Native shrub
+12,3-100-2,OZOLEP,7,AM,Medium,50,Native shrub
+12,3-100-2,POACOL,2,AM,Medium,50,Native grass
+12,3-100-2,RYTSET,1,AM,Medium,50,Native grass
+13,3-100-3,COPCHE,1,AM,High,80,Native shrub
+13,3-100-3,OZOLEP,0.5,AM,High,80,Native shrub
+13,3-100-3,VERVEN,1,AM,High,80,Native shrub
+14,3-100-4,OZOLEP,10,AM,High,70,Native shrub
+14,3-100-4,VERVEN,0.5,AM,High,70,Native shrub
+15,3-100-5,DRASUB,15,ErM,High,70,Native shrub
+15,3-100-5,OZOLEP,0.5,AM,High,70,Native shrub
+15,3-100-5,PENPUM,2,ErM,High,70,Native shrub
+15,3-100-5,VERVEN,0.5,AM,High,70,Native shrub
+16,4-100-1,DRASUB,5,ErM,Medium,60,Native shrub
+16,4-100-1,EMPMIN,3,NM,Medium,60,Native sedges and rushes
+16,4-100-1,LEPSCO,15,EcM/AM,Medium,60,Native shrub
+16,4-100-1,LEUFRA,38,ErM,Medium,60,Native shrub
+16,4-100-1,PENPUM,3,ErM,Medium,60,Native shrub
+16,4-100-1,POACOL,1,AM,Medium,60,Native grass
+17,4-100-2,AUSTOE,15,AM,Medium,60,Native grass
+17,4-100-2,DRASUB,2,ErM,Medium,60,Native shrub
+17,4-100-2,EMPMIN,20,NM,Medium,60,Native sedges and rushes
+17,4-100-2,LEPSCO,1,EcM/AM,Medium,60,Native shrub
+18,4-100-3,AUSTOE,8,AM,High,70,Native grass
+18,4-100-3,DRASUB,1,ErM,High,70,Native shrub
+18,4-100-3,LEPSCO,7,EcM/AM,High,70,Native shrub
+18,4-100-3,OZOLEP,1,AM,High,70,Native shrub
+19,4-100-4,AUSTOE,5,AM,Medium,60,Native grass
+19,4-100-4,EPAALP,0.5,ErM,Medium,60,Native shrub
+19,4-100-4,LEPSCO,2,EcM/AM,Medium,60,Native shrub
+19,4-100-4,OZOLEP,10,AM,Medium,60,Native shrub
+19,4-100-4,PENPUM,0.5,ErM,Medium,60,Native shrub
+20,4-100-5,AUSTOE,20,AM,Medium,50,Native grass
+20,4-100-5,COPCHE,1,AM,Medium,50,Native shrub
+20,4-100-5,DRASUB,4,ErM,Medium,50,Native shrub
+20,4-100-5,LEPSCO,20,EcM/AM,Medium,50,Native shrub
+20,4-100-5,LEUFRA,1,ErM,Medium,50,Native shrub
+20,4-100-5,ORESTR,1,NM,Medium,50,Native sedges and rushes
+21,5-50-1,DRASUB,3,ErM,Medium,20,Native shrub
+21,5-50-1,GAUDEP,15,ErM,Medium,20,Native shrub
+21,5-50-1,HYPRAD,1,AM,Medium,20,Pastoral
+21,5-50-1,OZOLEP,1,AM,Medium,20,Native shrub
+21,5-50-1,PENPUM,1,ErM,Medium,20,Native shrub
+21,5-50-1,POACOL,4,AM,Medium,20,Native grass
+21,5-50-1,RYTSET,6,AM,Medium,20,Native grass
+21,5-50-1,VERVEN,1,AM,Medium,20,Native shrub
+22,5-50-2,DRASUB,0.5,ErM,Medium,50,Native shrub
+22,5-50-2,GAUCOL,1,ErM,Medium,50,Native shrub
+22,5-50-2,GAUDEP,6,ErM,Medium,50,Native shrub
+22,5-50-2,OZOLEP,1,AM,Medium,50,Native shrub
+23,5-50-3,DRASUB,1,ErM,Medium,60,Native shrub
+23,5-50-3,GAUDEP,0.5,ErM,Medium,60,Native shrub
+23,5-50-3,OZOLEP,0.5,AM,Medium,60,Native shrub
+23,5-50-3,RYTSET,10,AM,Medium,60,Native grass
+23,5-50-3,VERVEN,1,AM,Medium,60,Native shrub
+24,5-50-4,HYPRAD,0.5,AM,Medium,40,Pastoral
+24,5-50-4,RYTSET,25,AM,Medium,40,Native grass
+24,5-50-4,VERVEN,0.5,AM,Medium,40,Native shrub
+25,5-50-5,DRASUB,2,ErM,Medium,50,Native shrub
+25,5-50-5,HYPRAD,0.5,AM,Medium,50,Pastoral
+25,5-50-5,OZOLEP,2,AM,Medium,50,Native shrub
+25,5-50-5,VERVEN,3,AM,Medium,50,Native shrub
+26,6-0-1,DRASUB,15,ErM,Low,0,Native shrub
+26,6-0-1,EMPMIN,30,NM,Low,0,Native sedges and rushes
+26,6-0-1,GLEDIC,40,NM,Low,0,Native fern
+26,6-0-1,HYPRAD,0.5,AM,Low,0,Pastoral
+26,6-0-1,VERVEN,1,AM,Low,0,Native shrub
+27,6-0-2,DRASUB,15,ErM,Low,0,Native shrub
+27,6-0-2,EMPMIN,30,NM,Low,0,Native sedges and rushes
+27,6-0-2,GLEDIC,25,NM,Low,0,Native fern
+27,6-0-2,HYPRAD,1,AM,Low,0,Pastoral
+28,6-0-3,DRASUB,30,ErM,Low,0,Native shrub
+28,6-0-3,EMPMIN,3,NM,Low,0,Native sedges and rushes
+28,6-0-3,GLEDIC,40,NM,Low,0,Native fern
+28,6-0-3,HYPRAD,0.5,AM,Low,0,Pastoral
+28,6-0-3,OZOLEP,2,AM,Low,0,Native shrub
+28,6-0-3,VERVEN,2,AM,Low,0,Native shrub
+29,6-0-4,DRASUB,3,ErM,Low,0,Native shrub
+29,6-0-4,EMPMIN,3,NM,Low,0,Native sedges and rushes
+29,6-0-4,GLEDIC,40,NM,Low,0,Native fern
+29,6-0-4,HYPRAD,0.5,AM,Low,0,Pastoral
+29,6-0-4,RYTSET,10,AM,Low,0,Native grass
+30,6-0-5,DRASUB,25,ErM,Low,0,Native shrub
+30,6-0-5,GLEDIC,50,NM,Low,0,Native fern
+30,6-0-5,HYPRAD,0.5,AM,Low,0,Pastoral
+30,6-0-5,POACOL,2,AM,Low,0,Native grass
+30,6-0-5,VERVEN,25,AM,Low,0,Native shrub
+31,7-0-1,DRASUB,60,ErM,Low,0,Native shrub
+31,7-0-1,GLEDIC,2,NM,Low,0,Native fern
+31,7-0-1,HYPRAD,2,AM,Low,0,Pastoral
+31,7-0-1,OZOLEP,30,AM,Low,0,Native shrub
+31,7-0-1,PENPUM,30,ErM,Low,0,Native shrub
+31,7-0-1,POACOL,2,AM,Low,0,Native grass
+32,7-0-2,COPCHE,1,AM,Low,0,Native shrub
+32,7-0-2,DRASUB,70,ErM,Low,0,Native shrub
+32,7-0-2,GAUDEP,0.5,ErM,Low,0,Native shrub
+32,7-0-2,HYPRAD,0.5,AM,Low,0,Pastoral
+32,7-0-2,OZOLEP,15,AM,Low,0,Native shrub
+33,7-0-3,COPCHE,15,AM,Low,0,Native shrub
+33,7-0-3,COPRUG,1,AM,Low,0,Native shrub
+33,7-0-3,DRASUB,30,ErM,Low,0,Native shrub
+33,7-0-3,HYPRAD,0.5,AM,Low,0,Pastoral
+33,7-0-3,OZOLEP,15,AM,Low,0,Native shrub
+34,7-0-4,COPCHE,0.5,AM,Low,0,Native shrub
+34,7-0-4,DRASUB,40,ErM,Low,0,Native shrub
+34,7-0-4,HYPRAD,0.5,AM,Low,0,Pastoral
+34,7-0-4,OZOLEP,50,AM,Low,0,Native shrub
+35,7-0-5,COPCHE,30,AM,Low,0,Native shrub
+35,7-0-5,DRASUB,60,ErM,Low,0,Native shrub
+35,7-0-5,OZOLEP,30,AM,Low,0,Native shrub
+36,8-100-1,COPCHE,8,AM,Medium,60,Native shrub
+36,8-100-1,DRASUB,2,ErM,Medium,60,Native shrub
+36,8-100-1,HYPRAD,0.5,AM,Medium,60,Pastoral
+36,8-100-1,LOLPER,0.5,AM,Medium,60,Pastoral
+36,8-100-1,PENPUM,5,ErM,Medium,60,Native shrub
+37,8-100-2,AGRCAP,0.5,AM,High,70,Pastoral
+37,8-100-2,COPCHE,30,AM,High,70,Native shrub
+37,8-100-2,DRASUB,10,ErM,High,70,Native shrub
+37,8-100-2,HYPRAD,0.5,AM,High,70,Pastoral
+37,8-100-2,LEPSCO,2,EcM/AM,High,70,Native shrub
+37,8-100-2,LOTPED,1,AM,High,70,Pastoral
+37,8-100-2,OZOLEP,0.5,AM,High,70,Native shrub
+37,8-100-2,PENPUM,3,ErM,High,70,Native shrub
+38,8-100-3,DRASUB,2,ErM,Medium,60,Native shrub
+38,8-100-3,HYPRAD,0.5,AM,Medium,60,Pastoral
+38,8-100-3,LOTPED,10,AM,Medium,60,Pastoral
+38,8-100-3,PENPUM,3,ErM,Medium,60,Native shrub
+39,8-100-4,AGRCAP,0.5,AM,Medium,60,Pastoral
+39,8-100-4,COPCHE,7,AM,Medium,60,Native shrub
+39,8-100-4,DRASUB,3,ErM,Medium,60,Native shrub
+39,8-100-4,HYPRAD,0.5,AM,Medium,60,Pastoral
+39,8-100-4,LEPSCO,2,EcM/AM,Medium,60,Native shrub
+39,8-100-4,LOTPED,15,AM,Medium,60,Pastoral
+40,8-100-5,COPCHE,30,AM,Medium,50,Native shrub
+40,8-100-5,HYPRAD,1,AM,Medium,50,Pastoral
+40,8-100-5,LEPSCO,1,EcM/AM,Medium,50,Native shrub
+40,8-100-5,POACOL,15,AM,Medium,50,Native grass
+40,8-100-5,WAHPYG,5,AM,Medium,50,Native forb
+41,9-50-1,COPCHE,0.5,AM,Medium,30,Native shrub
+41,9-50-1,DRASUB,5,ErM,Medium,30,Native shrub
+41,9-50-1,HYPRAD,0.5,AM,Medium,30,Pastoral
+41,9-50-1,LEPSCO,0.5,EcM/AM,Medium,30,Native shrub
+41,9-50-1,LOLPER,0.5,AM,Medium,30,Pastoral
+41,9-50-1,PENPUM,10,ErM,Medium,30,Native shrub
+42,9-50-2,COPCHE,30,AM,Medium,25,Native shrub
+42,9-50-2,HYPRAD,1,AM,Medium,25,Pastoral
+42,9-50-2,LOLPER,2,AM,Medium,25,Pastoral
+42,9-50-2,PENPUM,1,ErM,Medium,25,Native shrub
+43,9-50-3,DRASUB,15,ErM,Medium,20,Native shrub
+43,9-50-3,GAUDEP,1,ErM,Medium,20,Native shrub
+43,9-50-3,HYPRAD,1,AM,Medium,20,Pastoral
+43,9-50-3,LEUFRA,2,ErM,Medium,20,Native shrub
+43,9-50-3,LOLPER,5,AM,Medium,20,Pastoral
+43,9-50-3,MUEAXI,3,NM,Medium,20,Native shrub
+43,9-50-3,PENPUM,7,ErM,Medium,20,Native shrub
+43,9-50-3,POACOL,6,AM,Medium,20,Native grass
+44,9-50-4,COPCHE,6,AM,Medium,40,Native shrub
+44,9-50-4,DRASUB,15,ErM,Medium,40,Native shrub
+44,9-50-4,HYPRAD,2,AM,Medium,40,Pastoral
+44,9-50-4,LOLPER,5,AM,Medium,40,Pastoral
+45,9-50-5,COPCHE,40,AM,Medium,60,Native shrub
+45,9-50-5,DRASUB,5,ErM,Medium,60,Native shrub
+45,9-50-5,HYPRAD,0.5,AM,Medium,60,Pastoral
+45,9-50-5,LOLPER,0.5,AM,Medium,60,Pastoral
+45,9-50-5,MUEAXI,0.5,NM,Medium,60,Native shrub
+45,9-50-5,PENPUM,4,ErM,Medium,60,Native shrub
+46,10-100-1,COPCHE,50,AM,High,70,Native shrub
+46,10-100-1,EPAALP,1,ErM,High,70,Native shrub
+47,10-100-2,CELGRA,0.5,AM,Medium,60,Native forb
+47,10-100-2,COPCHE,15,AM,Medium,60,Native shrub
+47,10-100-2,HYPRAD,0.5,AM,Medium,60,Pastoral
+47,10-100-2,LEPSCO,20,EcM/AM,Medium,60,Native shrub
+48,10-100-3,COPCHE,20,AM,High,70,Native shrub
+48,10-100-3,LEPSCO,1,EcM/AM,High,70,Native shrub
+48,10-100-3,PENPUM,1,ErM,High,70,Native shrub
+48,10-100-3,POACOL,1,AM,High,70,Native grass
+48,10-100-3,WAHPYG,3,AM,High,70,Native forb
+49,10-100-4,COPCHE,6,AM,High,90,Native shrub
+49,10-100-4,GAUDEP,3,ErM,High,90,Native shrub
+49,10-100-4,LEPSCO,1,EcM/AM,High,90,Native shrub
+50,10-100-5,AGRCAP,2,AM,High,90,Pastoral
+50,10-100-5,COPCHE,20,AM,High,90,Native shrub
+50,10-100-5,LEPSCO,1,EcM/AM,High,90,Native shrub
+51,11-0-1,ANDEMP,3,ErM,Low,0,Native shrub
+51,11-0-1,COPCHE,4,AM,Low,0,Native shrub
+51,11-0-1,DRAREC,10,ErM,Low,0,Native shrub
+51,11-0-1,DRASUB,7,ErM,Low,0,Native shrub
+51,11-0-1,EPAALP,1,ErM,Low,0,Native shrub
+51,11-0-1,LEPSCO,40,EcM/AM,Low,0,Native shrub
+51,11-0-1,OLENUM,15,AM,Low,0,Native shrub
+51,11-0-1,PENPUM,1,ErM,Low,0,Native shrub
+51,11-0-1,PODNIV,2,AM,Low,0,Native shrub
+52,11-0-2,CELSPE,3,AM,Low,0,Native forb
+52,11-0-2,DRASUB,10,ErM,Low,0,Native shrub
+52,11-0-2,GAUCOL,1,ErM,Low,0,Native shrub
+52,11-0-2,GAUDEP,7,ErM,Low,0,Native shrub
+52,11-0-2,LEPSCO,60,EcM/AM,Low,0,Native shrub
+53,11-0-3,CELSPE,2,AM,Low,0,Native forb
+53,11-0-3,COPCHE,4,AM,Low,0,Native shrub
+53,11-0-3,DRASUB,15,ErM,Low,0,Native shrub
+53,11-0-3,EPAALP,1,ErM,Low,0,Native shrub
+53,11-0-3,GAUDEP,10,ErM,Low,0,Native shrub
+53,11-0-3,LEPSCO,10,EcM/AM,Low,0,Native shrub
+53,11-0-3,OLENUM,40,AM,Low,0,Native shrub
+53,11-0-3,PENPUM,30,ErM,Low,0,Native shrub
+54,11-0-4,ANDEMP,4,ErM,Low,0,Native shrub
+54,11-0-4,DRASUB,25,ErM,Low,0,Native shrub
+54,11-0-4,EPAALP,2,ErM,Low,0,Native shrub
+54,11-0-4,GAUCOL,1,ErM,Low,0,Native shrub
+54,11-0-4,GAUDEP,5,ErM,Low,0,Native shrub
+54,11-0-4,LEPSCO,15,EcM/AM,Low,0,Native shrub
+54,11-0-4,OLENUM,20,AM,Low,0,Native shrub
+54,11-0-4,OZOLEP,2,AM,Low,0,Native shrub
+54,11-0-4,PENPUM,20,ErM,Low,0,Native shrub
+55,11-0-5,CELSPE,3,AM,Low,0,Native forb
+55,11-0-5,DRASUB,10,ErM,Low,0,Native shrub
+55,11-0-5,EPAALP,20,ErM,Low,0,Native shrub
+55,11-0-5,GAUDEP,10,ErM,Low,0,Native shrub
+55,11-0-5,LEPSCO,60,EcM/AM,Low,0,Native shrub
+55,11-0-5,VERVEN,1,AM,Low,0,Native shrub
+56,12-50-1,COPCHE,2,AM,Medium,50,Native shrub
+56,12-50-1,DRASUB,1,ErM,Medium,50,Native shrub
+56,12-50-1,GAUDEP,2,ErM,Medium,50,Native shrub
+56,12-50-1,LEPSCO,10,EcM/AM,Medium,50,Native shrub
+56,12-50-1,PENPUM,2,ErM,Medium,50,Native shrub
+56,12-50-1,WAHPYG,10,AM,Medium,50,Native forb
+57,12-50-2,CELSPE,3,AM,Medium,40,Native forb
+57,12-50-2,COPCHE,4,AM,Medium,40,Native shrub
+57,12-50-2,EPAALP,1,ErM,Medium,40,Native shrub
+57,12-50-2,GAUDEP,1,ErM,Medium,40,Native shrub
+57,12-50-2,LEPSCO,20,EcM/AM,Medium,40,Native shrub
+57,12-50-2,PENPUM,15,ErM,Medium,40,Native shrub
+58,12-50-3,CELSPE,0.5,AM,Medium,50,Native forb
+58,12-50-3,COPCHE,5,AM,Medium,50,Native shrub
+58,12-50-3,HYPRAD,0.5,AM,Medium,50,Pastoral
+58,12-50-3,LEPSCO,1,EcM/AM,Medium,50,Native shrub
+58,12-50-3,PENPUM,15,ErM,Medium,50,Native shrub
+59,12-50-4,COPCHE,10,AM,High,80,Native shrub
+59,12-50-4,HYPRAD,1,AM,High,80,Pastoral
+59,12-50-4,PENPUM,2,ErM,High,80,Native shrub
+60,12-50-5,AUSTOE,2,AM,Medium,60,Native grass
+60,12-50-5,CELSPE,4,AM,Medium,60,Native forb
+60,12-50-5,COPCHE,5,AM,Medium,60,Native shrub
+60,12-50-5,HYPRAD,3,AM,Medium,60,Pastoral
+60,12-50-5,LEPSCO,10,EcM/AM,Medium,60,Native shrub
+61,13-50-1,GAUDEP,6,ErM,Medium,40,Native shrub
+61,13-50-1,HYPRAD,0.5,AM,Medium,40,Pastoral
+61,13-50-1,LEPSCO,25,EcM/AM,Medium,40,Native shrub
+61,13-50-1,LOTPED,7,AM,Medium,40,Pastoral
+61,13-50-1,OZOLEP,1,AM,Medium,40,Native shrub
+61,13-50-1,POACOL,6,AM,Medium,40,Native grass
+62,13-50-2,DRASUB,1,ErM,Medium,30,Native shrub
+62,13-50-2,EPAALP,1,ErM,Medium,30,Native shrub
+62,13-50-2,GAUDEP,2,ErM,Medium,30,Native shrub
+62,13-50-2,OZOLEP,5,AM,Medium,30,Native shrub
+62,13-50-2,PENPUM,8,ErM,Medium,30,Native shrub
+62,13-50-2,POACOL,1,AM,Medium,30,Native grass
+63,13-50-3,AGRCAP,0.5,AM,Medium,15,Pastoral
+63,13-50-3,DRASUB,15,ErM,Medium,15,Native shrub
+63,13-50-3,EPAALP,40,ErM,Medium,15,Native shrub
+63,13-50-3,OZOLEP,30,AM,Medium,15,Native shrub
+64,13-50-4,AGRCAP,3,AM,Medium,20,Pastoral
+64,13-50-4,COPCHE,10,AM,Medium,20,Native shrub
+64,13-50-4,DRASUB,25,ErM,Medium,20,Native shrub
+64,13-50-4,HYPRAD,0.5,AM,Medium,20,Pastoral
+64,13-50-4,HYPRAD,0.5,AM,Medium,20,Pastoral
+64,13-50-4,PENPUM,15,ErM,Medium,20,Native shrub
+65,13-50-5,AGRCAP,1,AM,Medium,50,Pastoral
+65,13-50-5,COPCHE,30,AM,Medium,50,Native shrub
+65,13-50-5,DRAREC,10,ErM,Medium,50,Native shrub
+65,13-50-5,EPAALP,4,ErM,Medium,50,Native shrub
+65,13-50-5,GAUDEP,2,ErM,Medium,50,Native shrub
+65,13-50-5,OZOLEP,40,AM,Medium,50,Native shrub
+65,13-50-5,PENPUM,3,ErM,Medium,50,Native shrub
+65,13-50-5,POACOL,2,AM,Medium,50,Native grass
+66,14-100-1,DRASUB,3,ErM,Medium,60,Native shrub
+66,14-100-1,EPAALP,2,ErM,Medium,60,Native shrub
+66,14-100-1,LEPSCO,50,EcM/AM,Medium,60,Native shrub
+67,14-100-2,LEPSCO,25,EcM/AM,High,80,Native shrub
+68,14-100-3,EPAALP,1,ErM,High,70,Native shrub
+68,14-100-3,LEPSCO,40,EcM/AM,High,70,Native shrub
+69,14-100-4,DRASUB,6,ErM,Medium,40,Native shrub
+69,14-100-4,EPAALP,15,ErM,Medium,40,Native shrub
+69,14-100-4,LEPSCO,40,EcM/AM,Medium,40,Native shrub
+70,14-100-5,EPAALP,2,ErM,High,70,Native shrub
+70,14-100-5,LEPSCO,1,EcM/AM,High,70,Native shrub
+71,15-0-1,GAUCOL,1,ErM,Low,0,Native shrub
+71,15-0-1,GAUDEP,25,ErM,Low,0,Native shrub
+71,15-0-1,HYPRAD,6,AM,Low,0,Pastoral
+71,15-0-1,LEUFRA,0.5,ErM,Low,0,Native shrub
+71,15-0-1,POACOL,6,AM,Low,0,Native grass
+71,15-0-1,RYTSET,4,AM,Low,0,Native grass
+72,15-0-2,CARNAN,15,AM,Low,0,Native shrub
+72,15-0-2,HYPRAD,10,AM,Low,0,Pastoral
+72,15-0-2,LEUFRA,2,ErM,Low,0,Native shrub
+72,15-0-2,POACOL,15,AM,Low,0,Native grass
+72,15-0-2,RYTSET,5,AM,Low,0,Native grass
+72,15-0-2,VERVEN,0.5,AM,Low,0,Native shrub
+73,15-0-3,CARNAN,1,AM,Low,0,Native shrub
+73,15-0-3,EPAALP,2,ErM,Low,0,Native shrub
+73,15-0-3,GAUDEP,10,ErM,Low,0,Native shrub
+73,15-0-3,HYPRAD,5,AM,Low,0,Pastoral
+73,15-0-3,OLENUM,0.5,AM,Low,0,Native shrub
+73,15-0-3,OZOLEP,5,AM,Low,0,Native shrub
+73,15-0-3,POACOL,5,AM,Low,0,Native grass
+73,15-0-3,RYTSET,10,AM,Low,0,Native grass
+73,15-0-3,VERVEN,0.5,AM,Low,0,Native shrub
+74,15-0-4,CARNAN,0.5,AM,Low,0,Native shrub
+74,15-0-4,EPAALP,15,ErM,Low,0,Native shrub
+74,15-0-4,HYPRAD,0.5,AM,Low,0,Pastoral
+74,15-0-4,LEUFRA,0.5,ErM,Low,0,Native shrub
+74,15-0-4,OLENUM,0.5,AM,Low,0,Native shrub
+74,15-0-4,POACOL,0.5,AM,Low,0,Native grass
+74,15-0-4,PODNIV,10,AM,Low,0,Native shrub
+74,15-0-4,RYTSET,5,AM,Low,0,Native grass
+74,15-0-4,VERTET,2,AM,Low,0,Native shrub
+74,15-0-4,VERVEN,3,AM,Low,0,Native shrub
+75,15-0-5,CARNAN,1,AM,Low,0,Native shrub
+75,15-0-5,EPAALP,20,ErM,Low,0,Native shrub
+75,15-0-5,GAUDEP,15,ErM,Low,0,Native shrub
+75,15-0-5,HYPRAD,5,AM,Low,0,Pastoral
+75,15-0-5,OZOLEP,1,AM,Low,0,Native shrub
+75,15-0-5,RYTSET,20,AM,Low,0,Native grass
+75,15-0-5,VERVEN,1,AM,Low,0,Native shrub
